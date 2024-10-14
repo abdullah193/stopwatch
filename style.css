@@ -1,0 +1,80 @@
+
+.stopwatch {
+	text-align: center;
+  box-shadow: 0px 7px 8px 4px rgb(33, 32, 32);
+  width: 70%;
+  /* margin-top: 8%px; */
+  padding-top: 25px;
+  background-color: rgb(220, 207, 207);
+
+
+ 
+}
+h1{
+  color: white;
+  font-size: 40px;
+  font-style:italic;
+  /* margin: 50% 0px; */
+  /* border: 2px solid black; */
+  width: 30%;
+  /* background-color: rgb(81, 30, 30); */
+  box-shadow: 5px 6px 12px 7px rgb(37, 28, 28);
+
+}
+
+#maindv{
+
+ 
+  /* background-color:rgb(188, 170, 170); */
+  width: 50%;
+  /* margin-left: 10%; */
+  align-items: center;
+  /* margin-top: 15%; */
+  padding: 50px 0px;
+  
+}
+
+.stopwatch span {
+	font-size: 48px;
+  padding: 20px,0px;
+  
+
+}
+ body{
+  background-color: rgb(62, 120, 92);
+  
+ }
+button {
+  align-items: center;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #131111;
+  /* padding: 0px 10px; */
+}
+#start{
+  font-size: larger;
+   margin: 0px 10px; 
+
+  color: beige;
+  background-color: rgb(23, 92, 21);
+  /* margin: 0px 10px; */
+}
+#stop{
+  font-size: larger;
+  color: beige;
+  background-color:rgb(221, 31, 28);
+  margin: 0px 10px;
+}
+
+#reset{
+  font-size: larger;
+  margin: 0px 10px;
+  background-color: rgb(9, 6, 139);
+  color: beige;
+
+}
